@@ -20,11 +20,11 @@ Mexico
 
 ## 📂 Required Files
 
-- `voltage current 12W.opj`.
-- `OE spectrum flexible LTP.opj`.
-- `UVx characterization flexible LTP.xlsx`.
-- `Temp characterization flexible LTP.xlsx`.
-- `E coli inacivation.opj`.
+- `voltage current 12W.opj` : data of Fig. 3.
+- `OE spectrum flexible LTP.opj` : data of Fig. 5.
+- `UVx characterization flexible LTP.xlsx` : data of Figs. 6 and 7.
+- `Temp characterization flexible LTP.xlsx` data of Fig. 8.
+- `E coli inacivation.opj` data of Figs. 12 and 13.
 
 ---
 
