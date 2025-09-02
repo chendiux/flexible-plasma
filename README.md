@@ -17,6 +17,13 @@ Affiliations: \
 Mexico
 
 ---
+Flexible Low-Temperature RF Plasma Source for Biomedical Applications
+
+<p align="center">
+  <img height="400px" src="./abstract_image.png">
+</p>
+
+---
 
 ## 📂 Required Files
 
